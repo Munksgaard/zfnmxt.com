@@ -1,1 +1,8 @@
-Today I set up this site c:
+* A new PhD log!
+
+Today I set up this site; the idea was basically entirely stolen from [[https://munksgaard.me][Philip Munksgaard]].
+
+
+* AD
+
+I worked on adding support for ~map~ statements to the reverse automatic differentiation pass I'm adding to Futhark.
