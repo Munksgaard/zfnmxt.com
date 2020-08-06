@@ -1,5 +1,0 @@
-* zfnmxt's site
-
-I'm a PhD student at the University of Copenhagen.
-
-[[file:posts.org][posts]]

@@ -13,7 +13,7 @@
 	:sitemap-title "posts"
 	:sitemap-sort-files anti-chronologically
 	:sitemao-style list
-        :sitemap-filename "posts.org"
+        :sitemap-filename "index.org"
 	:section-numbers nil
 	:author "zfnmxt"
 	:email "zfnmxt@zfnxmt.com"
